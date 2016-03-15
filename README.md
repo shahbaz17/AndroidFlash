@@ -1,7 +1,7 @@
 # AndroidFlash
   Flashing Android L 5.1.1 (Custom) and Google Apps.
 
-  ##### Requirement
+  ## Requirement
   <ul>
   <li>Android Device</li>
   <li>USB Cable</li>
@@ -9,7 +9,7 @@
   <li>adb and fastboot</li>
   </ul>
 
-  ##### Download
+  ## Download
   Download the given files.
   <ul>
   <li>Android 5.1.1 Custom ROM [link](https://github.com/shahbaz17)</li>
