@@ -1,4 +1,5 @@
 # AndroidFlash
+Best way to Flash rom in Sony Devices is to use Official FLash Tool.
   Flashing Android L 5.1.1 (Custom) and Google Apps.
 
   ## Requirement
